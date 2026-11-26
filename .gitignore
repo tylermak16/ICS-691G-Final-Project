@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env*
+credentials.json
+*.pem
+*.key
+*.safetensors
+*.pt
+*.ckpt
+*.npz
+data/
+results/*/dataset.tsv

@@ -1,0 +1,17 @@
+{
+  "model_id": "kuleshov-group/caduceus-ph_seqlen-131k_d_model-256_n_layer-16",
+  "revision": "b0477522ac5d044ad03578aa724ec8e4bdbd405b",
+  "reference_repository_revision": "0060a6d8079b6a040fc55d505e15972a327b70a6",
+  "weights_sha256": "1ab95562b7ee254d4fcbb559585550c3fed11177b82f813816ca5404493cd2f0",
+  "config_sha256": {
+    "config.json": "8e2b4f516c0f991e232d1fbe2dcdd48b5174fc9355c63ff61d02338c68ef1d25",
+    "tokenizer_config.json": "54b8a214423d01e4cf90fe5751d03d2a7117b4f7286b5727d9ee60fdd0bb7c8a",
+    "special_tokens_map.json": "5a7f632604e110003e8003e3b2eada8740c0069f98e13728be4b883c520cc71d"
+  },
+  "code_sha256": {
+    "configuration_caduceus.py": "f6d9785a13b3f62eef8d0911954d69cf2e60ac26e83ddc3975f8710c7d6864f9",
+    "modeling_caduceus.py": "9c79343c590721395af3d4323eb3992a2d01684e683f9f24db4acb9d9e56f655",
+    "modeling_rcps.py": "38e8e3dc8f7583a9fee9c2b69369db8bf4b340c8db92208dd02500bf53ac7da5",
+    "tokenization_caduceus.py": "a85b0ee68a4764a3e27c11910972dc5ffa737204aa298b1e9cc798c18228da7e"
+  }
+}
